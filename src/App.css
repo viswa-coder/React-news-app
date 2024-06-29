@@ -1,0 +1,13 @@
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode .navbar,
+body.dark-mode .navbar-brand,
+body.dark-mode .nav-link,
+body.dark-mode .btn {
+  background-color: #121212;
+  color: #ffffff;
+}

@@ -1,0 +1,29 @@
+/* Custom CSS for improved mobile view */
+@media (max-width: 767.98px) {
+  .navbar-brand {
+    font-size: 1.25rem; /* Adjust brand size */
+  }
+
+  .navbar-nav .nav-link {
+    padding: 0.5rem 1rem; /* Adjust link padding */
+  }
+
+  .btn.ms-auto {
+    margin-top: 0.5rem; /* Space out button on smaller screens */
+  }
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode .navbar,
+body.dark-mode .navbar-brand,
+body.dark-mode .nav-link,
+body.dark-mode .btn {
+  background-color: #121212;
+  color: #ffffff;
+}
+

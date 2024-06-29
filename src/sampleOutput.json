@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Simone McCarthy",
+        "title": "China’s Xi Jinping calls for peace conference and ‘justice’ over war in Gaza as Arab leaders visit Beijing - CNN",
+        "description": "Chinese leader Xi Jinping decried “tremendous sufferings” in the Middle East and called for an international peace conference as leaders from Arab nations visit Beijing this week amid mounting global concern over Israel’s war in Gaza.",
+        "url": "https://www.cnn.com/2024/05/30/china/xi-jinping-arab-leaders-china-intl-hnk/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-05-30t042114z-907146426-rc2p08a2c286-rtrmadp-3-china-arabstates.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-05-31T06:18:00Z",
+        "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinese leader Xi Jinping decried tremendous s… [+6685 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "BEN NUCKOLS",
+        "title": "Bruhat Soma wins Scripps National Spelling Bee - The Associated Press",
+        "description": "Bruhat Soma was unbeatable before he arrived at the Scripps National Spelling Bee, and neither the dictionary, nor his competitors, nor a lightning-round tiebreaker challenged him on the way to victory. Bruhat spelled 29 words correctly in the tiebreaker, bea…",
+        "url": "https://apnews.com/article/scripps-national-spelling-bee-finals-2024-1afe4e933ebfba6238d058635af429ac",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f79424e/2147483647/strip/true/crop/5026x2827+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F14%2F729f2302202c768a26f23cbc7994%2F1d9a4168389542c6a4f0ea9738bc0931",
+        "publishedAt": "2024-05-31T05:36:00Z",
+        "content": "OXON HILL, Md. (AP) Bruhat Soma insisted he was nervous during the idle hours as he waited to take the Scripps National Spelling Bee stage, and he felt even more pressure to perform given that he had… [+5664 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Wordle locked in legal row with geography spinoff, Worldle - BBC.com",
+        "description": "The New York Times, Wordle's owner, accuses similarly-named geography game of \"creating confusion.\"",
+        "url": "https://www.bbc.com/news/articles/cjrr5ee5zv8o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50ac/live/15cb77b0-1dca-11ef-baa7-25d483663b8e.jpg",
+        "publishedAt": "2024-05-31T05:13:01Z",
+        "content": "Zoe Kleinman,Technology editor\r\nThe owner of the hit online game Wordle is legally challenging a geography-based spinoff called Worldle.\r\nIn the filing, the New York Times, which purchased Wordle for… [+3235 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": null,
+        "title": "Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - May 30, 2024 Gametracker - CBS Sports",
+        "description": "Get real-time NBA basketball coverage and scores as Dallas Mavericks takes on Minnesota Timberwolves. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
+        "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240530_DAL@MIN/",
+        "urlToImage": "https://sportsfly.cbsistatic.com/fly-0706/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+        "publishedAt": "2024-05-31T04:36:00Z",
+        "content": "MINNEAPOLIS (AP) Luka Doncic was in his element, hitting shots from everywhere on the court, hushing the crowd and flashing those sly smiles as the Dallas Mavericks delivered a knockout performance.\r… [+5181 chars]"
+      }
+    ]
+  }
